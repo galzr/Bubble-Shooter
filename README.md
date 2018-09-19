@@ -2,4 +2,4 @@
 A bubble shooter game using pygame.
 
 
-![Screenshot](bubbles.PNG = 400 x 500)
+![Screenshot](bubbles.PNG =250x)
