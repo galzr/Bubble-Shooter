@@ -2,4 +2,4 @@
 A bubble shooter game using pygame.
 
 
-![Screenshot](bubbles.jpg)
+![Screenshot](bubbles.PNG)
